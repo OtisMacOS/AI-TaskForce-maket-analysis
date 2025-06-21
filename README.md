@@ -1,1 +1,3 @@
 Visit Here:  https://otismacos.github.io/AI-TaskForce-maket-analysis/
+
+The full app is SLOWLY under development...
